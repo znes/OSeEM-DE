@@ -7,7 +7,10 @@ To run the scripts, you need to install Oemof Tabular using the following comman
 
 pip install oemof.tabular
 
-Further documentation will be available soon. 
+For details on Oemof Tabular please go through the documentation-
+https://oemof-tabular.readthedocs.io/
 
-If you have any questions, contact- 
+Further documentation on OSeEM-DE will be available soon. 
+
+If you have any questions about the model, please contact- 
 ni.maruf@uni-flensburg.de
