@@ -3,7 +3,7 @@ Open Sector-coupled Energy Model for Germany
 
 OSeEM-DE is a tool constructed using Oemof Tabular to apply cross-sectoral approaches for analyzing 100% renewable and sector-coupled energy system in Germany.
 
-To run the scripts, you need to install Oemof Tabular. 
+To run the scripts, you need to install Oemof Tabular using the following command- 
 
 pip install oemof.tabular
 
