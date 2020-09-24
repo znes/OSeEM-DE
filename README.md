@@ -1,5 +1,5 @@
 # OSeEM-DE
-Open Sector-coupled Energy Model for Germany
+## Open Sector-coupled Energy Model for Germany
 
 OSeEM-DE is a tool constructed using Oemof Tabular to apply cross-sectoral approaches for analyzing 100% renewable and sector-coupled energy system in Germany.
 
