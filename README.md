@@ -10,7 +10,11 @@ pip install oemof.tabular
 For details on Oemof Tabular please go through the documentation-
 https://oemof-tabular.readthedocs.io/
 
-Further documentation on OSeEM-DE will be available soon. 
+The model uses Oemof-Solph, a model generator for energy system modelling and optimisation (LP/MILP). The oemof.solph package is part of the Open energy modelling framework (Oemof). This an organisational framework to bundle tools for energy system modelling. Details on Oemof-Solph can be is described here-
+
+https://github.com/oemof/oemof-solph
+
+Further documentation on the OSeEM-DE will be available soon. 
 
 If you have any questions about the model, please contact- 
 ni.maruf@uni-flensburg.de
